@@ -24,13 +24,16 @@
 	Font Awesome variables
 */
 
+$icon-500px: "\f26e" !default;
 $icon-adjust: "\f042" !default;
 $icon-adn: "\f170" !default;
 $icon-align-center: "\f037" !default;
 $icon-align-justify: "\f039" !default;
 $icon-align-left: "\f036" !default;
 $icon-align-right: "\f038" !default;
+$icon-amazon: "\f270" !default;
 $icon-ambulance: "\f0f9" !default;
+$icon-american-sign-language-interpreting: "\f2a3" !default;
 $icon-anchor: "\f13d" !default;
 $icon-android: "\f17b" !default;
 $icon-angellist: "\f209" !default;
@@ -61,16 +64,30 @@ $icon-arrows: "\f047" !default;
 $icon-arrows-alt: "\f0b2" !default;
 $icon-arrows-h: "\f07e" !default;
 $icon-arrows-v: "\f07d" !default;
+$icon-asl-interpreting: "\f2a3" !default;
+$icon-assistive-listening-systems: "\f2a2" !default;
 $icon-asterisk: "\f069" !default;
 $icon-at: "\f1fa" !default;
+$icon-audio-description: "\f29e" !default;
 $icon-automobile: "\f1b9" !default;
 $icon-backward: "\f04a" !default;
+$icon-balance-scale: "\f24e" !default;
 $icon-ban: "\f05e" !default;
 $icon-bank: "\f19c" !default;
 $icon-bar-chart: "\f080" !default;
 $icon-bar-chart-o: "\f080" !default;
 $icon-barcode: "\f02a" !default;
 $icon-bars: "\f0c9" !default;
+$icon-battery-0: "\f244" !default;
+$icon-battery-1: "\f243" !default;
+$icon-battery-2: "\f242" !default;
+$icon-battery-3: "\f241" !default;
+$icon-battery-4: "\f240" !default;
+$icon-battery-empty: "\f244" !default;
+$icon-battery-full: "\f240" !default;
+$icon-battery-half: "\f242" !default;
+$icon-battery-quarter: "\f243" !default;
+$icon-battery-three-quarters: "\f241" !default;
 $icon-bed: "\f236" !default;
 $icon-beer: "\f0fc" !default;
 $icon-behance: "\f1b4" !default;
@@ -85,12 +102,17 @@ $icon-birthday-cake: "\f1fd" !default;
 $icon-bitbucket: "\f171" !default;
 $icon-bitbucket-square: "\f172" !default;
 $icon-bitcoin: "\f15a" !default;
+$icon-black-tie: "\f27e" !default;
+$icon-blind: "\f29d" !default;
+$icon-bluetooth: "\f293" !default;
+$icon-bluetooth-b: "\f294" !default;
 $icon-bold: "\f032" !default;
 $icon-bolt: "\f0e7" !default;
 $icon-bomb: "\f1e2" !default;
 $icon-book: "\f02d" !default;
 $icon-bookmark: "\f02e" !default;
 $icon-bookmark-o: "\f097" !default;
+$icon-braille: "\f2a1" !default;
 $icon-briefcase: "\f0b1" !default;
 $icon-btc: "\f15a" !default;
 $icon-bug: "\f188" !default;
@@ -103,7 +125,11 @@ $icon-buysellads: "\f20d" !default;
 $icon-cab: "\f1ba" !default;
 $icon-calculator: "\f1ec" !default;
 $icon-calendar: "\f073" !default;
+$icon-calendar-check-o: "\f274" !default;
+$icon-calendar-minus-o: "\f272" !default;
 $icon-calendar-o: "\f133" !default;
+$icon-calendar-plus-o: "\f271" !default;
+$icon-calendar-times-o: "\f273" !default;
 $icon-camera: "\f030" !default;
 $icon-camera-retro: "\f083" !default;
 $icon-car: "\f1b9" !default;
@@ -119,7 +145,9 @@ $icon-cart-arrow-down: "\f218" !default;
 $icon-cart-plus: "\f217" !default;
 $icon-cc: "\f20a" !default;
 $icon-cc-amex: "\f1f3" !default;
+$icon-cc-diners-club: "\f24c" !default;
 $icon-cc-discover: "\f1f2" !default;
+$icon-cc-jcb: "\f24b" !default;
 $icon-cc-mastercard: "\f1f1" !default;
 $icon-cc-paypal: "\f1f4" !default;
 $icon-cc-stripe: "\f1f5" !default;
@@ -141,12 +169,14 @@ $icon-chevron-left: "\f053" !default;
 $icon-chevron-right: "\f054" !default;
 $icon-chevron-up: "\f077" !default;
 $icon-child: "\f1ae" !default;
+$icon-chrome: "\f268" !default;
 $icon-circle: "\f111" !default;
 $icon-circle-o: "\f10c" !default;
 $icon-circle-o-notch: "\f1ce" !default;
 $icon-circle-thin: "\f1db" !default;
 $icon-clipboard: "\f0ea" !default;
 $icon-clock-o: "\f017" !default;
+$icon-clone: "\f24d" !default;
 $icon-close: "\f00d" !default;
 $icon-cloud: "\f0c2" !default;
 $icon-cloud-download: "\f0ed" !default;
@@ -155,20 +185,26 @@ $icon-cny: "\f157" !default;
 $icon-code: "\f121" !default;
 $icon-code-fork: "\f126" !default;
 $icon-codepen: "\f1cb" !default;
+$icon-codiepie: "\f284" !default;
 $icon-coffee: "\f0f4" !default;
 $icon-cog: "\f013" !default;
 $icon-cogs: "\f085" !default;
 $icon-columns: "\f0db" !default;
 $icon-comment: "\f075" !default;
 $icon-comment-o: "\f0e5" !default;
+$icon-commenting: "\f27a" !default;
+$icon-commenting-o: "\f27b" !default;
 $icon-comments: "\f086" !default;
 $icon-comments-o: "\f0e6" !default;
 $icon-compass: "\f14e" !default;
 $icon-compress: "\f066" !default;
 $icon-connectdevelop: "\f20e" !default;
+$icon-contao: "\f26d" !default;
 $icon-copy: "\f0c5" !default;
 $icon-copyright: "\f1f9" !default;
+$icon-creative-commons: "\f25e" !default;
 $icon-credit-card: "\f09d" !default;
+$icon-credit-card-alt: "\f283" !default;
 $icon-crop: "\f125" !default;
 $icon-crosshairs: "\f05b" !default;
 $icon-css3: "\f13c" !default;
@@ -179,6 +215,8 @@ $icon-cutlery: "\f0f5" !default;
 $icon-dashboard: "\f0e4" !default;
 $icon-dashcube: "\f210" !default;
 $icon-database: "\f1c0" !default;
+$icon-deaf: "\f2a4" !default;
+$icon-deafness: "\f2a4" !default;
 $icon-dedent: "\f03b" !default;
 $icon-delicious: "\f1a5" !default;
 $icon-desktop: "\f108" !default;
@@ -191,6 +229,7 @@ $icon-download: "\f019" !default;
 $icon-dribbble: "\f17d" !default;
 $icon-dropbox: "\f16b" !default;
 $icon-drupal: "\f1a9" !default;
+$icon-edge: "\f282" !default;
 $icon-edit: "\f044" !default;
 $icon-eject: "\f052" !default;
 $icon-ellipsis-h: "\f141" !default;
@@ -199,6 +238,7 @@ $icon-empire: "\f1d1" !default;
 $icon-envelope: "\f0e0" !default;
 $icon-envelope-o: "\f003" !default;
 $icon-envelope-square: "\f199" !default;
+$icon-envira: "\f299" !default;
 $icon-eraser: "\f12d" !default;
 $icon-eur: "\f153" !default;
 $icon-euro: "\f153" !default;
@@ -207,11 +247,13 @@ $icon-exclamation: "\f12a" !default;
 $icon-exclamation-circle: "\f06a" !default;
 $icon-exclamation-triangle: "\f071" !default;
 $icon-expand: "\f065" !default;
+$icon-expeditedssl: "\f23e" !default;
 $icon-external-link: "\f08e" !default;
 $icon-external-link-square: "\f14c" !default;
 $icon-eye: "\f06e" !default;
 $icon-eye-slash: "\f070" !default;
 $icon-eyedropper: "\f1fb" !default;
+$icon-fa: "\f2b4" !default;
 $icon-facebook: "\f09a" !default;
 $icon-facebook-f: "\f09a" !default;
 $icon-facebook-official: "\f230" !default;
@@ -219,6 +261,7 @@ $icon-facebook-square: "\f082" !default;
 $icon-fast-backward: "\f049" !default;
 $icon-fast-forward: "\f050" !default;
 $icon-fax: "\f1ac" !default;
+$icon-feed: "\f09e" !default;
 $icon-female: "\f182" !default;
 $icon-fighter-jet: "\f0fb" !default;
 $icon-file: "\f15b" !default;
@@ -244,6 +287,8 @@ $icon-film: "\f008" !default;
 $icon-filter: "\f0b0" !default;
 $icon-fire: "\f06d" !default;
 $icon-fire-extinguisher: "\f134" !default;
+$icon-firefox: "\f269" !default;
+$icon-first-order: "\f2b0" !default;
 $icon-flag: "\f024" !default;
 $icon-flag-checkered: "\f11e" !default;
 $icon-flag-o: "\f11d" !default;
@@ -256,6 +301,9 @@ $icon-folder-o: "\f114" !default;
 $icon-folder-open: "\f07c" !default;
 $icon-folder-open-o: "\f115" !default;
 $icon-font: "\f031" !default;
+$icon-font-awesome: "\f2b4" !default;
+$icon-fonticons: "\f280" !default;
+$icon-fort-awesome: "\f286" !default;
 $icon-forumbee: "\f211" !default;
 $icon-forward: "\f04e" !default;
 $icon-foursquare: "\f180" !default;
@@ -267,18 +315,26 @@ $icon-gbp: "\f154" !default;
 $icon-ge: "\f1d1" !default;
 $icon-gear: "\f013" !default;
 $icon-gears: "\f085" !default;
-$icon-genderless: "\f1db" !default;
+$icon-genderless: "\f22d" !default;
+$icon-get-pocket: "\f265" !default;
+$icon-gg: "\f260" !default;
+$icon-gg-circle: "\f261" !default;
 $icon-gift: "\f06b" !default;
 $icon-git: "\f1d3" !default;
 $icon-git-square: "\f1d2" !default;
 $icon-github: "\f09b" !default;
 $icon-github-alt: "\f113" !default;
 $icon-github-square: "\f092" !default;
+$icon-gitlab: "\f296" !default;
 $icon-gittip: "\f184" !default;
 $icon-glass: "\f000" !default;
+$icon-glide: "\f2a5" !default;
+$icon-glide-g: "\f2a6" !default;
 $icon-globe: "\f0ac" !default;
 $icon-google: "\f1a0" !default;
 $icon-google-plus: "\f0d5" !default;
+$icon-google-plus-circle: "\f2b3" !default;
+$icon-google-plus-official: "\f2b3" !default;
 $icon-google-plus-square: "\f0d4" !default;
 $icon-google-wallet: "\f1ee" !default;
 $icon-graduation-cap: "\f19d" !default;
@@ -286,10 +342,21 @@ $icon-gratipay: "\f184" !default;
 $icon-group: "\f0c0" !default;
 $icon-h-square: "\f0fd" !default;
 $icon-hacker-news: "\f1d4" !default;
+$icon-hand-grab-o: "\f255" !default;
+$icon-hand-lizard-o: "\f258" !default;
 $icon-hand-o-down: "\f0a7" !default;
 $icon-hand-o-left: "\f0a5" !default;
 $icon-hand-o-right: "\f0a4" !default;
 $icon-hand-o-up: "\f0a6" !default;
+$icon-hand-paper-o: "\f256" !default;
+$icon-hand-peace-o: "\f25b" !default;
+$icon-hand-pointer-o: "\f25a" !default;
+$icon-hand-rock-o: "\f255" !default;
+$icon-hand-scissors-o: "\f257" !default;
+$icon-hand-spock-o: "\f259" !default;
+$icon-hand-stop-o: "\f256" !default;
+$icon-hard-of-hearing: "\f2a4" !default;
+$icon-hashtag: "\f292" !default;
 $icon-hdd-o: "\f0a0" !default;
 $icon-header: "\f1dc" !default;
 $icon-headphones: "\f025" !default;
@@ -300,16 +367,29 @@ $icon-history: "\f1da" !default;
 $icon-home: "\f015" !default;
 $icon-hospital-o: "\f0f8" !default;
 $icon-hotel: "\f236" !default;
+$icon-hourglass: "\f254" !default;
+$icon-hourglass-1: "\f251" !default;
+$icon-hourglass-2: "\f252" !default;
+$icon-hourglass-3: "\f253" !default;
+$icon-hourglass-end: "\f253" !default;
+$icon-hourglass-half: "\f252" !default;
+$icon-hourglass-o: "\f250" !default;
+$icon-hourglass-start: "\f251" !default;
+$icon-houzz: "\f27c" !default;
 $icon-html5: "\f13b" !default;
+$icon-i-cursor: "\f246" !default;
 $icon-ils: "\f20b" !default;
 $icon-image: "\f03e" !default;
 $icon-inbox: "\f01c" !default;
 $icon-indent: "\f03c" !default;
+$icon-industry: "\f275" !default;
 $icon-info: "\f129" !default;
 $icon-info-circle: "\f05a" !default;
 $icon-inr: "\f156" !default;
 $icon-instagram: "\f16d" !default;
 $icon-institution: "\f19c" !default;
+$icon-internet-explorer: "\f26b" !default;
+$icon-intersex: "\f224" !default;
 $icon-ioxhost: "\f208" !default;
 $icon-italic: "\f033" !default;
 $icon-joomla: "\f1aa" !default;
@@ -348,13 +428,18 @@ $icon-long-arrow-down: "\f175" !default;
 $icon-long-arrow-left: "\f177" !default;
 $icon-long-arrow-right: "\f178" !default;
 $icon-long-arrow-up: "\f176" !default;
+$icon-low-vision: "\f2a8" !default;
 $icon-magic: "\f0d0" !default;
 $icon-magnet: "\f076" !default;
 $icon-mail-forward: "\f064" !default;
 $icon-mail-reply: "\f112" !default;
 $icon-mail-reply-all: "\f122" !default;
 $icon-male: "\f183" !default;
+$icon-map: "\f279" !default;
 $icon-map-marker: "\f041" !default;
+$icon-map-o: "\f278" !default;
+$icon-map-pin: "\f276" !default;
+$icon-map-signs: "\f277" !default;
 $icon-mars: "\f222" !default;
 $icon-mars-double: "\f227" !default;
 $icon-mars-stroke: "\f229" !default;
@@ -372,17 +457,27 @@ $icon-minus: "\f068" !default;
 $icon-minus-circle: "\f056" !default;
 $icon-minus-square: "\f146" !default;
 $icon-minus-square-o: "\f147" !default;
+$icon-mixcloud: "\f289" !default;
 $icon-mobile: "\f10b" !default;
 $icon-mobile-phone: "\f10b" !default;
+$icon-modx: "\f285" !default;
 $icon-money: "\f0d6" !default;
 $icon-moon-o: "\f186" !default;
 $icon-mortar-board: "\f19d" !default;
 $icon-motorcycle: "\f21c" !default;
+$icon-mouse-pointer: "\f245" !default;
 $icon-music: "\f001" !default;
 $icon-navicon: "\f0c9" !default;
 $icon-neuter: "\f22c" !default;
 $icon-newspaper-o: "\f1ea" !default;
+$icon-object-group: "\f247" !default;
+$icon-object-ungroup: "\f248" !default;
+$icon-odnoklassniki: "\f263" !default;
+$icon-odnoklassniki-square: "\f264" !default;
+$icon-opencart: "\f23d" !default;
 $icon-openid: "\f19b" !default;
+$icon-opera: "\f26a" !default;
+$icon-optin-monster: "\f23c" !default;
 $icon-outdent: "\f03b" !default;
 $icon-pagelines: "\f18c" !default;
 $icon-paint-brush: "\f1fc" !default;
@@ -392,18 +487,22 @@ $icon-paperclip: "\f0c6" !default;
 $icon-paragraph: "\f1dd" !default;
 $icon-paste: "\f0ea" !default;
 $icon-pause: "\f04c" !default;
+$icon-pause-circle: "\f28b" !default;
+$icon-pause-circle-o: "\f28c" !default;
 $icon-paw: "\f1b0" !default;
 $icon-paypal: "\f1ed" !default;
 $icon-pencil: "\f040" !default;
 $icon-pencil-square: "\f14b" !default;
 $icon-pencil-square-o: "\f044" !default;
+$icon-percent: "\f295" !default;
 $icon-phone: "\f095" !default;
 $icon-phone-square: "\f098" !default;
 $icon-photo: "\f03e" !default;
 $icon-picture-o: "\f03e" !default;
 $icon-pie-chart: "\f200" !default;
-$icon-pied-piper: "\f1a7" !default;
+$icon-pied-piper: "\f2ae" !default;
 $icon-pied-piper-alt: "\f1a8" !default;
+$icon-pied-piper-pp: "\f1a7" !default;
 $icon-pinterest: "\f0d2" !default;
 $icon-pinterest-p: "\f231" !default;
 $icon-pinterest-square: "\f0d3" !default;
@@ -418,11 +517,13 @@ $icon-plus-square: "\f0fe" !default;
 $icon-plus-square-o: "\f196" !default;
 $icon-power-off: "\f011" !default;
 $icon-print: "\f02f" !default;
+$icon-product-hunt: "\f288" !default;
 $icon-puzzle-piece: "\f12e" !default;
 $icon-qq: "\f1d6" !default;
 $icon-qrcode: "\f029" !default;
 $icon-question: "\f128" !default;
 $icon-question-circle: "\f059" !default;
+$icon-question-circle-o: "\f29c" !default;
 $icon-quote-left: "\f10d" !default;
 $icon-quote-right: "\f10e" !default;
 $icon-ra: "\f1d0" !default;
@@ -430,14 +531,17 @@ $icon-random: "\f074" !default;
 $icon-rebel: "\f1d0" !default;
 $icon-recycle: "\f1b8" !default;
 $icon-reddit: "\f1a1" !default;
+$icon-reddit-alien: "\f281" !default;
 $icon-reddit-square: "\f1a2" !default;
 $icon-refresh: "\f021" !default;
+$icon-registered: "\f25d" !default;
 $icon-remove: "\f00d" !default;
 $icon-renren: "\f18b" !default;
 $icon-reorder: "\f0c9" !default;
 $icon-repeat: "\f01e" !default;
 $icon-reply: "\f112" !default;
 $icon-reply-all: "\f122" !default;
+$icon-resistance: "\f1d0" !default;
 $icon-retweet: "\f079" !default;
 $icon-rmb: "\f157" !default;
 $icon-road: "\f018" !default;
@@ -450,8 +554,10 @@ $icon-rss-square: "\f143" !default;
 $icon-rub: "\f158" !default;
 $icon-ruble: "\f158" !default;
 $icon-rupee: "\f156" !default;
+$icon-safari: "\f267" !default;
 $icon-save: "\f0c7" !default;
 $icon-scissors: "\f0c4" !default;
+$icon-scribd: "\f28a" !default;
 $icon-search: "\f002" !default;
 $icon-search-minus: "\f010" !default;
 $icon-search-plus: "\f00e" !default;
@@ -469,10 +575,14 @@ $icon-sheqel: "\f20b" !default;
 $icon-shield: "\f132" !default;
 $icon-ship: "\f21a" !default;
 $icon-shirtsinbulk: "\f214" !default;
+$icon-shopping-bag: "\f290" !default;
+$icon-shopping-basket: "\f291" !default;
 $icon-shopping-cart: "\f07a" !default;
 $icon-sign-in: "\f090" !default;
+$icon-sign-language: "\f2a7" !default;
 $icon-sign-out: "\f08b" !default;
 $icon-signal: "\f012" !default;
+$icon-signing: "\f2a7" !default;
 $icon-simplybuilt: "\f215" !default;
 $icon-sitemap: "\f0e8" !default;
 $icon-skyatlas: "\f216" !default;
@@ -481,6 +591,9 @@ $icon-slack: "\f198" !default;
 $icon-sliders: "\f1de" !default;
 $icon-slideshare: "\f1e7" !default;
 $icon-smile-o: "\f118" !default;
+$icon-snapchat: "\f2ab" !default;
+$icon-snapchat-ghost: "\f2ac" !default;
+$icon-snapchat-square: "\f2ad" !default;
 $icon-soccer-ball-o: "\f1e3" !default;
 $icon-sort: "\f0dc" !default;
 $icon-sort-alpha-asc: "\f15d" !default;
@@ -513,7 +626,11 @@ $icon-steam-square: "\f1b7" !default;
 $icon-step-backward: "\f048" !default;
 $icon-step-forward: "\f051" !default;
 $icon-stethoscope: "\f0f1" !default;
+$icon-sticky-note: "\f249" !default;
+$icon-sticky-note-o: "\f24a" !default;
 $icon-stop: "\f04d" !default;
+$icon-stop-circle: "\f28d" !default;
+$icon-stop-circle-o: "\f28e" !default;
 $icon-street-view: "\f21d" !default;
 $icon-strikethrough: "\f0cc" !default;
 $icon-stumbleupon: "\f1a4" !default;
@@ -531,6 +648,7 @@ $icon-tag: "\f02b" !default;
 $icon-tags: "\f02c" !default;
 $icon-tasks: "\f0ae" !default;
 $icon-taxi: "\f1ba" !default;
+$icon-television: "\f26c" !default;
 $icon-tencent-weibo: "\f1d5" !default;
 $icon-terminal: "\f120" !default;
 $icon-text-height: "\f034" !default;
@@ -538,6 +656,7 @@ $icon-text-width: "\f035" !default;
 $icon-th: "\f00a" !default;
 $icon-th-large: "\f009" !default;
 $icon-th-list: "\f00b" !default;
+$icon-themeisle: "\f2b2" !default;
 $icon-thumb-tack: "\f08d" !default;
 $icon-thumbs-down: "\f165" !default;
 $icon-thumbs-o-down: "\f088" !default;
@@ -554,6 +673,7 @@ $icon-toggle-off: "\f204" !default;
 $icon-toggle-on: "\f205" !default;
 $icon-toggle-right: "\f152" !default;
 $icon-toggle-up: "\f151" !default;
+$icon-trademark: "\f25c" !default;
 $icon-train: "\f238" !default;
 $icon-transgender: "\f224" !default;
 $icon-transgender-alt: "\f225" !default;
@@ -561,6 +681,7 @@ $icon-trash: "\f1f8" !default;
 $icon-trash-o: "\f014" !default;
 $icon-tree: "\f1bb" !default;
 $icon-trello: "\f181" !default;
+$icon-tripadvisor: "\f262" !default;
 $icon-trophy: "\f091" !default;
 $icon-truck: "\f0d1" !default;
 $icon-try: "\f195" !default;
@@ -568,18 +689,21 @@ $icon-tty: "\f1e4" !default;
 $icon-tumblr: "\f173" !default;
 $icon-tumblr-square: "\f174" !default;
 $icon-turkish-lira: "\f195" !default;
+$icon-tv: "\f26c" !default;
 $icon-twitch: "\f1e8" !default;
 $icon-twitter: "\f099" !default;
 $icon-twitter-square: "\f081" !default;
 $icon-umbrella: "\f0e9" !default;
 $icon-underline: "\f0cd" !default;
 $icon-undo: "\f0e2" !default;
+$icon-universal-access: "\f29a" !default;
 $icon-university: "\f19c" !default;
 $icon-unlink: "\f127" !default;
 $icon-unlock: "\f09c" !default;
 $icon-unlock-alt: "\f13e" !default;
 $icon-unsorted: "\f0dc" !default;
 $icon-upload: "\f093" !default;
+$icon-usb: "\f287" !default;
 $icon-usd: "\f155" !default;
 $icon-user: "\f007" !default;
 $icon-user-md: "\f0f0" !default;
@@ -591,10 +715,14 @@ $icon-venus: "\f221" !default;
 $icon-venus-double: "\f226" !default;
 $icon-venus-mars: "\f228" !default;
 $icon-viacoin: "\f237" !default;
+$icon-viadeo: "\f2a9" !default;
+$icon-viadeo-square: "\f2aa" !default;
 $icon-video-camera: "\f03d" !default;
+$icon-vimeo: "\f27d" !default;
 $icon-vimeo-square: "\f194" !default;
 $icon-vine: "\f1ca" !default;
 $icon-vk: "\f189" !default;
+$icon-volume-control-phone: "\f2a0" !default;
 $icon-volume-down: "\f027" !default;
 $icon-volume-off: "\f026" !default;
 $icon-volume-up: "\f028" !default;
@@ -604,16 +732,25 @@ $icon-weibo: "\f18a" !default;
 $icon-weixin: "\f1d7" !default;
 $icon-whatsapp: "\f232" !default;
 $icon-wheelchair: "\f193" !default;
+$icon-wheelchair-alt: "\f29b" !default;
 $icon-wifi: "\f1eb" !default;
+$icon-wikipedia-w: "\f266" !default;
 $icon-windows: "\f17a" !default;
 $icon-won: "\f159" !default;
 $icon-wordpress: "\f19a" !default;
+$icon-wpbeginner: "\f297" !default;
+$icon-wpforms: "\f298" !default;
 $icon-wrench: "\f0ad" !default;
 $icon-xing: "\f168" !default;
 $icon-xing-square: "\f169" !default;
+$icon-y-combinator: "\f23b" !default;
+$icon-y-combinator-square: "\f1d4" !default;
 $icon-yahoo: "\f19e" !default;
+$icon-yc: "\f23b" !default;
+$icon-yc-square: "\f1d4" !default;
 $icon-yelp: "\f1e9" !default;
 $icon-yen: "\f157" !default;
+$icon-yoast: "\f2b1" !default;
 $icon-youtube: "\f167" !default;
 $icon-youtube-play: "\f16a" !default;
 $icon-youtube-square: "\f166" !default;
@@ -789,6 +926,7 @@ $icon-youtube-square: "\f166" !default;
 .fa-github:before { content: $icon-github; }
 .fa-unlock:before { content: $icon-unlock; }
 .fa-credit-card:before { content: $icon-credit-card; }
+.fa-feed:before,
 .fa-rss:before { content: $icon-rss; }
 .fa-hdd-o:before { content: $icon-hdd-o; }
 .fa-bullhorn:before { content: $icon-bullhorn; }
@@ -1063,7 +1201,7 @@ $icon-youtube-square: "\f166" !default;
 .fa-stumbleupon:before { content: $icon-stumbleupon; }
 .fa-delicious:before { content: $icon-delicious; }
 .fa-digg:before { content: $icon-digg; }
-.fa-pied-piper:before { content: $icon-pied-piper; }
+.fa-pied-piper-pp:before { content: $icon-pied-piper-pp; }
 .fa-pied-piper-alt:before { content: $icon-pied-piper-alt; }
 .fa-drupal:before { content: $icon-drupal; }
 .fa-joomla:before { content: $icon-joomla; }
@@ -1113,11 +1251,14 @@ $icon-youtube-square: "\f166" !default;
 .fa-life-ring:before { content: $icon-life-ring; }
 .fa-circle-o-notch:before { content: $icon-circle-o-notch; }
 .fa-ra:before,
+.fa-resistance:before,
 .fa-rebel:before { content: $icon-rebel; }
 .fa-ge:before,
 .fa-empire:before { content: $icon-empire; }
 .fa-git-square:before { content: $icon-git-square; }
 .fa-git:before { content: $icon-git; }
+.fa-y-combinator-square:before,
+.fa-yc-square:before,
 .fa-hacker-news:before { content: $icon-hacker-news; }
 .fa-tencent-weibo:before { content: $icon-tencent-weibo; }
 .fa-qq:before { content: $icon-qq; }
@@ -1128,7 +1269,6 @@ $icon-youtube-square: "\f166" !default;
 .fa-send-o:before,
 .fa-paper-plane-o:before { content: $icon-paper-plane-o; }
 .fa-history:before { content: $icon-history; }
-.fa-genderless:before,
 .fa-circle-thin:before { content: $icon-circle-thin; }
 .fa-header:before { content: $icon-header; }
 .fa-paragraph:before { content: $icon-paragraph; }
@@ -1199,6 +1339,7 @@ $icon-youtube-square: "\f166" !default;
 .fa-venus:before { content: $icon-venus; }
 .fa-mars:before { content: $icon-mars; }
 .fa-mercury:before { content: $icon-mercury; }
+.fa-intersex:before,
 .fa-transgender:before { content: $icon-transgender; }
 .fa-transgender-alt:before { content: $icon-transgender-alt; }
 .fa-venus-double:before { content: $icon-venus-double; }
@@ -1208,6 +1349,7 @@ $icon-youtube-square: "\f166" !default;
 .fa-mars-stroke-v:before { content: $icon-mars-stroke-v; }
 .fa-mars-stroke-h:before { content: $icon-mars-stroke-h; }
 .fa-neuter:before { content: $icon-neuter; }
+.fa-genderless:before { content: $icon-genderless; }
 .fa-facebook-official:before { content: $icon-facebook-official; }
 .fa-pinterest-p:before { content: $icon-pinterest-p; }
 .fa-whatsapp:before { content: $icon-whatsapp; }
@@ -1220,3 +1362,135 @@ $icon-youtube-square: "\f166" !default;
 .fa-train:before { content: $icon-train; }
 .fa-subway:before { content: $icon-subway; }
 .fa-medium:before { content: $icon-medium; }
+.fa-yc:before,
+.fa-y-combinator:before { content: $icon-y-combinator; }
+.fa-optin-monster:before { content: $icon-optin-monster; }
+.fa-opencart:before { content: $icon-opencart; }
+.fa-expeditedssl:before { content: $icon-expeditedssl; }
+.fa-battery-4:before,
+.fa-battery-full:before { content: $icon-battery-full; }
+.fa-battery-3:before,
+.fa-battery-three-quarters:before { content: $icon-battery-three-quarters; }
+.fa-battery-2:before,
+.fa-battery-half:before { content: $icon-battery-half; }
+.fa-battery-1:before,
+.fa-battery-quarter:before { content: $icon-battery-quarter; }
+.fa-battery-0:before,
+.fa-battery-empty:before { content: $icon-battery-empty; }
+.fa-mouse-pointer:before { content: $icon-mouse-pointer; }
+.fa-i-cursor:before { content: $icon-i-cursor; }
+.fa-object-group:before { content: $icon-object-group; }
+.fa-object-ungroup:before { content: $icon-object-ungroup; }
+.fa-sticky-note:before { content: $icon-sticky-note; }
+.fa-sticky-note-o:before { content: $icon-sticky-note-o; }
+.fa-cc-jcb:before { content: $icon-cc-jcb; }
+.fa-cc-diners-club:before { content: $icon-cc-diners-club; }
+.fa-clone:before { content: $icon-clone; }
+.fa-balance-scale:before { content: $icon-balance-scale; }
+.fa-hourglass-o:before { content: $icon-hourglass-o; }
+.fa-hourglass-1:before,
+.fa-hourglass-start:before { content: $icon-hourglass-start; }
+.fa-hourglass-2:before,
+.fa-hourglass-half:before { content: $icon-hourglass-half; }
+.fa-hourglass-3:before,
+.fa-hourglass-end:before { content: $icon-hourglass-end; }
+.fa-hourglass:before { content: $icon-hourglass; }
+.fa-hand-grab-o:before,
+.fa-hand-rock-o:before { content: $icon-hand-rock-o; }
+.fa-hand-stop-o:before,
+.fa-hand-paper-o:before { content: $icon-hand-paper-o; }
+.fa-hand-scissors-o:before { content: $icon-hand-scissors-o; }
+.fa-hand-lizard-o:before { content: $icon-hand-lizard-o; }
+.fa-hand-spock-o:before { content: $icon-hand-spock-o; }
+.fa-hand-pointer-o:before { content: $icon-hand-pointer-o; }
+.fa-hand-peace-o:before { content: $icon-hand-peace-o; }
+.fa-trademark:before { content: $icon-trademark; }
+.fa-registered:before { content: $icon-registered; }
+.fa-creative-commons:before { content: $icon-creative-commons; }
+.fa-gg:before { content: $icon-gg; }
+.fa-gg-circle:before { content: $icon-gg-circle; }
+.fa-tripadvisor:before { content: $icon-tripadvisor; }
+.fa-odnoklassniki:before { content: $icon-odnoklassniki; }
+.fa-odnoklassniki-square:before { content: $icon-odnoklassniki-square; }
+.fa-get-pocket:before { content: $icon-get-pocket; }
+.fa-wikipedia-w:before { content: $icon-wikipedia-w; }
+.fa-safari:before { content: $icon-safari; }
+.fa-chrome:before { content: $icon-chrome; }
+.fa-firefox:before { content: $icon-firefox; }
+.fa-opera:before { content: $icon-opera; }
+.fa-internet-explorer:before { content: $icon-internet-explorer; }
+.fa-tv:before,
+.fa-television:before { content: $icon-television; }
+.fa-contao:before { content: $icon-contao; }
+.fa-500px:before { content: $icon-500px; }
+.fa-amazon:before { content: $icon-amazon; }
+.fa-calendar-plus-o:before { content: $icon-calendar-plus-o; }
+.fa-calendar-minus-o:before { content: $icon-calendar-minus-o; }
+.fa-calendar-times-o:before { content: $icon-calendar-times-o; }
+.fa-calendar-check-o:before { content: $icon-calendar-check-o; }
+.fa-industry:before { content: $icon-industry; }
+.fa-map-pin:before { content: $icon-map-pin; }
+.fa-map-signs:before { content: $icon-map-signs; }
+.fa-map-o:before { content: $icon-map-o; }
+.fa-map:before { content: $icon-map; }
+.fa-commenting:before { content: $icon-commenting; }
+.fa-commenting-o:before { content: $icon-commenting-o; }
+.fa-houzz:before { content: $icon-houzz; }
+.fa-vimeo:before { content: $icon-vimeo; }
+.fa-black-tie:before { content: $icon-black-tie; }
+.fa-fonticons:before { content: $icon-fonticons; }
+.fa-reddit-alien:before { content: $icon-reddit-alien; }
+.fa-edge:before { content: $icon-edge; }
+.fa-credit-card-alt:before { content: $icon-credit-card-alt; }
+.fa-codiepie:before { content: $icon-codiepie; }
+.fa-modx:before { content: $icon-modx; }
+.fa-fort-awesome:before { content: $icon-fort-awesome; }
+.fa-usb:before { content: $icon-usb; }
+.fa-product-hunt:before { content: $icon-product-hunt; }
+.fa-mixcloud:before { content: $icon-mixcloud; }
+.fa-scribd:before { content: $icon-scribd; }
+.fa-pause-circle:before { content: $icon-pause-circle; }
+.fa-pause-circle-o:before { content: $icon-pause-circle-o; }
+.fa-stop-circle:before { content: $icon-stop-circle; }
+.fa-stop-circle-o:before { content: $icon-stop-circle-o; }
+.fa-shopping-bag:before { content: $icon-shopping-bag; }
+.fa-shopping-basket:before { content: $icon-shopping-basket; }
+.fa-hashtag:before { content: $icon-hashtag; }
+.fa-bluetooth:before { content: $icon-bluetooth; }
+.fa-bluetooth-b:before { content: $icon-bluetooth-b; }
+.fa-percent:before { content: $icon-percent; }
+.fa-gitlab:before { content: $icon-gitlab; }
+.fa-wpbeginner:before { content: $icon-wpbeginner; }
+.fa-wpforms:before { content: $icon-wpforms; }
+.fa-envira:before { content: $icon-envira; }
+.fa-universal-access:before { content: $icon-universal-access; }
+.fa-wheelchair-alt:before { content: $icon-wheelchair-alt; }
+.fa-question-circle-o:before { content: $icon-question-circle-o; }
+.fa-blind:before { content: $icon-blind; }
+.fa-audio-description:before { content: $icon-audio-description; }
+.fa-volume-control-phone:before { content: $icon-volume-control-phone; }
+.fa-braille:before { content: $icon-braille; }
+.fa-assistive-listening-systems:before { content: $icon-assistive-listening-systems; }
+.fa-asl-interpreting:before,
+.fa-american-sign-language-interpreting:before { content: $icon-american-sign-language-interpreting; }
+.fa-deafness:before,
+.fa-hard-of-hearing:before,
+.fa-deaf:before { content: $icon-deaf; }
+.fa-glide:before { content: $icon-glide; }
+.fa-glide-g:before { content: $icon-glide-g; }
+.fa-signing:before,
+.fa-sign-language:before { content: $icon-sign-language; }
+.fa-low-vision:before { content: $icon-low-vision; }
+.fa-viadeo:before { content: $icon-viadeo; }
+.fa-viadeo-square:before { content: $icon-viadeo-square; }
+.fa-snapchat:before { content: $icon-snapchat; }
+.fa-snapchat-ghost:before { content: $icon-snapchat-ghost; }
+.fa-snapchat-square:before { content: $icon-snapchat-square; }
+.fa-pied-piper:before { content: $icon-pied-piper; }
+.fa-first-order:before { content: $icon-first-order; }
+.fa-yoast:before { content: $icon-yoast; }
+.fa-themeisle:before { content: $icon-themeisle; }
+.fa-google-plus-circle:before,
+.fa-google-plus-official:before { content: $icon-google-plus-official; }
+.fa-fa:before,
+.fa-font-awesome:before { content: $icon-font-awesome; }
